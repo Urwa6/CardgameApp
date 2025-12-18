@@ -1,5 +1,5 @@
 
-                                                                              # Card Game App 🎴
+                                                                              Card Game App 
 
 A simple **memory card matching game** for Android built with **Kotlin**, **ViewPager2**, and **Fragments**.
 
@@ -40,5 +40,17 @@ app/
 ├─ ic_card1.png
 ├─ ic_card2.png
 └─ ic_card3.png
+
+How to Play
+
+Tap Start Game
+
+Flip cards to find matching pairs
+
+When all pairs are matched, the Win screen appears
+
+Tap Play Again to restart
+
+
 
 
